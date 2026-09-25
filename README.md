@@ -13,19 +13,16 @@
         <h1>Marwadi University</h1>
         <h2>Department Of Computer Engineering</h2>
     </header>
-
     <nav>
         <a href="#vision">Vision</a><a href="#mission">Mission</a><a href="#PSO">Program Specific Outcomes</a><a
             href="#CO">Course Offered</a><a href="#TR">Top Recruiters</a><a href="#gallery">Gallery</a>
     </nav>
-
     <section id="vision">
         <h3>Vision</h3>
         <p>To impart quality technical education through research, innovation, and teamwork for creating professionally
             superior and ethically strong manpower that meets the global challenges of engineering industries and
             research organizations.</p>
     </section>
-
     <section id="mission">
         <h3>Mission</h3>
         <ul>
@@ -35,7 +32,6 @@
             <li>Prepare graduates for lifelong learning and career challenges.</li>
         </ul>
     </section>
-
     <section id="PSO">
         <h3>Program Specific Outcomes (PSOs)</h3>
         <ol>
@@ -43,7 +39,6 @@
             <li>Adapt to emerging technological advancements including cybersecurity, AR/VR, and IoT.</li>
         </ol>
     </section>
-
     <section id="CO">
         <h3>Courses Offered</h3>
         <ul>
@@ -53,7 +48,6 @@
             <li>Ph.D. in Computer Science & Engineering</li>
         </ul>
     </section>
-
     <section id="TR">
         <h3>Top Recruiters</h3>
         <ul>
@@ -66,7 +60,6 @@
             <li>Reliance Industries</li>
         </ul>
     </section>
-
     <section id="gallery">
         <h3>Gallery</h3>
         <div class="gallery-container">
@@ -77,7 +70,6 @@
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKTv5GFqI_Fs0arRXNxZssjL40nBhBVPy6JOrmGhqkBQ&s=10" alt="Hackathon">
         </div>
     </section>
-
     <footer>
         &copy; 2026 MU - Department Of Computer Engineering
     </footer>
